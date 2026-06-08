@@ -8,7 +8,7 @@
 
 An AI-powered interactive stock forecasting dashboard that predicts future stock prices using three ML models simultaneously. Supports any stock worldwide — Indian (NSE/BSE) and US (NYSE/NASDAQ).
 
-🔗 **Live Demo:** [your-streamlit-url] ← Replace after deploying
+🔗 **Live Demo:** [Click here to try it](https://stock-forecasting-dashboard-ixirgtukrseknahg58hvn6.streamlit.app/)
 
 ---
 
